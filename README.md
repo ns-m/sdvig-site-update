@@ -1,1 +1,1 @@
-Распакуйте архив в корень сайта sdvig.su: index.html и site.json рядом, скрипт в папку assets.
+Распакуйте в корень sdvig.su: index.html и site.json рядом, файлы из assets — в папку assets.
